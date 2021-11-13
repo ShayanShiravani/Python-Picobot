@@ -7,8 +7,8 @@ A simple Picobot project implemented in Python
 
 ## Explanation
 This is my first programming project.<br/>
-Picobot use `rules.txt` file which contains Picobot rules to traverse map. If your rules are correct Picobot cover whole maze map.<br/>
-Currently `rules.txt` contains sample insturctions to test project.<br/>
+Picobot use `rules.txt` file which contains Picobot rules to traverse map. If your rules are correct Picobot will cover the whole map.<br/>
+Currently `rules.txt` contains sample insturctions to test the project.<br/>
 graphics.py library from https://mcsp.wartburg.edu/zelle/python/ has been used to create UI for this project.
 
 ## Demo
