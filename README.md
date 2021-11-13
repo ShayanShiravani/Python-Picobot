@@ -9,7 +9,7 @@ A simple Picobot project implemented in Python
 This is my first programming project.<br/>
 Picobot use `rules.txt` file which contains Picobot rules to traverse map. If your rules are correct Picobot will cover the whole map.<br/>
 Currently `rules.txt` contains sample insturctions to test the project.<br/>
-graphics.py library from https://mcsp.wartburg.edu/zelle/python/ has been used to create UI for this project.
+`graphics.py` library from https://mcsp.wartburg.edu/zelle/python/ has been used to create UI for this project.
 
 ## Demo
 ![python-picobot](https://user-images.githubusercontent.com/22572845/141655057-f3903032-9ba4-49d3-b1c7-e9b3fdf8fd55.PNG)
